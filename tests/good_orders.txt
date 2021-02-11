@@ -1,0 +1,7 @@
+id,name
+1,Pick up pipes and tiles
+2,Install tiles
+3,Install pipes
+4,Waterproof pipes
+5,Remove old tiles
+6,Rustproof pipes
